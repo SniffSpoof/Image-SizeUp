@@ -1,6 +1,6 @@
 # Image-SizeUp
-Size up img on python /n
-#How to use:/n
-1.Enter a name of file (pucture)/n
-2.Enter N (Kf of size up)/n
-3.Look at directory :)/n
+Size up img on python 
+#How to use:
+- Enter a name of file (pucture)
+- Enter N (Kf of size up)
+- Look at directory :)
